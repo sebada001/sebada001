@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 ## Welcome to my Github!
 
 ### About me 🫡:
 
-- 🕶 My name is Sebastian, I am an American/Argentinian fella currently living in the caribbean .
+- 🕶 My name is Sebastian, I am an American/Argentinian currently living in the caribbean .
 - 👾 I am passionate about coding, drawing, coffee and gaming.
 - 🌱 I’m currently practicing Ruby On Rails, React and Tailwind! 
 - 📫 Feel free to reach out for any questions or collabs!
